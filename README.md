@@ -106,7 +106,7 @@ Nếu bạn không muốn cộng tác trực tiếp mà muốn học bằng các
 
 Theo thông lệ, bài quyền được chọn cho coderetreat là [Conway’s Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). Trong buổi lễ sẽ không có mục giới thiệu về bài toán này, vậy nên hãy đảm bảo rằng bạn đã đọc và hiểu nó trước khi tham dự.
 
-![](gol.gif)
+![](gol.png)
 
 ### Về TDD
 Bạn không cần phải biết về TDD hay bất kỳ kỹ thuật phát triển phần mềm đặc biệt nào trước khi tham dự chương trình, mặc dù nếu có thì sẽ là một thuận lợi rất tốt. Trên thực tế, coderetreat không phân biệt trình độ.
