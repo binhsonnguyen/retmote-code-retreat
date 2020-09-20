@@ -14,20 +14,20 @@ Hầu như không có giới hạn nào trong việc sử dụng ngôn ngữ. N�
 
 * [Golang](presets/golang)
 * [Java](presets/java)
-* [JavaScript]()
-* [PHP]()
-* [Python]()
-* [Ruby]()
+* [JavaScript](presets/javascript)
+* [PHP](presets/php)
+* [Python](presets/python)
+* [Ruby](presets/ruby)
 
-Nếu bạn muốn bổ sung một khung dự án mới, hãy gửi một pull request và chúng ta sẽ có đồ mới để chơi :).
+Nếu bạn muốn bổ sung một khung dự án mới, hãy gửi một [pull request](pulls) và chúng ta sẽ có đồ mới để chơi :).
 
 ## Phải cài đặt những gì
 
 ### Visual Studio Code
 
-Để lập trình theo cặp dễ dàng, chúng ta sử dụng Visual Studio Code làm IDE trong suốt sự kiện.
+Để lập trình theo cặp dễ dàng, chúng ta sử dụng [Visual Studio Code](https://code.visualstudio.com/) làm IDE trong suốt sự kiện.
 
-Lý do chính ở đây là VS Code có extension Live Share giúp chúng ta cộng tác viết mã theo thời gian thực, một cách đơn giản và hiệu quả.
+Lý do chính ở đây là VS Code có extension [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) giúp chúng ta cộng tác viết mã theo thời gian thực, một cách đơn giản và hiệu quả.
 
 Bạn có thể tham khảo cách Live Share hoạt động tại đây.
 
