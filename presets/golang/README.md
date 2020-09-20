@@ -5,7 +5,7 @@ Bạn có hai lựa chọn:
 1. Sử dụngUsar Docker:
     * Đảm bảo rằng bạn có Docker đang hoạt động.
     * Thực thi `./run_with_docker.sh`. Câu lệnh này đưa bạn vào bên trong container.
-    * Trong container: `cd src/game-of-life/` 
+    * Trong container: `cd /app` 
     * Trong container: `./run_go_tests.sh`
     * Tiếp tục viết mã từ bên ngoài, và chạy kiểm thử từ trong container.
 
