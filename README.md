@@ -29,15 +29,17 @@ Nếu bạn muốn bổ sung một khung dự án mới, hãy gửi một [pull 
 
 Lý do chính ở đây là VS Code có extension [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) giúp chúng ta cộng tác viết mã theo thời gian thực, một cách đơn giản và hiệu quả.
 
-Bạn có thể tham khảo cách Live Share hoạt động tại đây.
+![](vsc-live-share.gif)
 
-Xung quanh Live Share cũng tồn tại một hệ sinh thái, chúng ta cũng sẽ sử dụng Live Share Audio từ trong số đó, extension này sẽ giúp chúng ta đàm thoại trao đổi với partner của mình.
+Bạn có thể tham khảo cách Live Share hoạt động [tại đây](https://nguyenbinhson.com/2020/09/19/remote-pair-programming-voi-microsoft-visual-studio-code/).
 
-Nếu bạn muốn cài đặt nguyên bộ các extension của Live Share, hãy cài đặt Live Share Extension Pack.
+Xung quanh Live Share cũng tồn tại một hệ sinh thái, chúng ta cũng sẽ sử dụng [Live Share Audio](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-audio) từ trong số đó, extension này sẽ giúp chúng ta đàm thoại trao đổi với partner của mình.
+
+Nếu bạn muốn cài đặt nguyên bộ các extension của Live Share, hãy cài đặt [Live Share Extension Pack](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack).
 
 ### Zoom
 
-Khi cần đàm thoại với tất cả mọi người, chẳng hạn trong phiên giới thiệu hay các phiên retrospective, chúng ta sẽ sử dụng Zoom. Bạn không cần tạo tài khoản Zoom nhưng sẽ cần cài đặt phần mềm.
+Khi cần đàm thoại với tất cả mọi người, chẳng hạn trong phiên giới thiệu hay các phiên retrospective, chúng ta sẽ sử dụng [Zoom](https://zoom.us/). Bạn không cần tạo tài khoản Zoom nhưng sẽ cần cài đặt phần mềm.
 
 ### Slack
 
@@ -69,7 +71,7 @@ Chúng ta sẽ viết mã trong những vòng lặp 45 phút. Đổi partner và
 
 ### Ghép cặp
 
-Để có thể ghép cặp cho các parter chúng ta sẽ sử dụng một file excel mà đường dẫn sẽ được gửi đến cho bạn sau khi bạn xác nhận tham gia. Nội dung mẫu của file đó trông sẽ như thế này.
+Để có thể ghép cặp cho các parter chúng ta sẽ sử dụng một file excel mà đường dẫn sẽ được gửi đến cho bạn sau khi bạn xác nhận tham gia. Nội dung mẫu của file đó trông sẽ như [thế này](https://docs.google.com/spreadsheets/d/e/2PACX-1vRS-o8LILQEbYYPrChCO7JovOHcFqgG3cf3ANFv74kv87dc9YRNIxRt5vE1rP4ZQ9CCXgkQe5dezTGC/pubhtml).
 
 Sẽ có tất cả 4 sheet, mỗi sheet cho một phiên. Các cặp sẽ được gieo ngẫu nhiên.
 
@@ -102,9 +104,11 @@ Nếu bạn không muốn cộng tác trực tiếp mà muốn học bằng các
 
 ### Chúng ta sẽ giải bài toán gì
 
-Theo thông lệ, bài quyền được chọn cho coderetreat là Conway’s Game of Life. Trong buổi lễ sẽ không có mục giới thiệu về bài toán này, vậy nên hãy đảm bảo rằng bạn đã đọc và hiểu nó trước khi tham dự.
+Theo thông lệ, bài quyền được chọn cho coderetreat là [Conway’s Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). Trong buổi lễ sẽ không có mục giới thiệu về bài toán này, vậy nên hãy đảm bảo rằng bạn đã đọc và hiểu nó trước khi tham dự.
+
+![](gol.gif)
 
 ### Về TDD
 Bạn không cần phải biết về TDD hay bất kỳ kỹ thuật phát triển phần mềm đặc biệt nào trước khi tham dự chương trình, mặc dù nếu có thì sẽ là một thuận lợi rất tốt. Trên thực tế, coderetreat không phân biệt trình độ.
 
-Nếu bạn muốn tìm hiểu kỹ hơn về kỹ thuật lập trình hướng kiểm thử hay tái cấu trúc, bạn có thể bắt đầu bằng việc tham khảo bài viết này.
+Nếu bạn muốn tìm hiểu kỹ hơn về kỹ thuật lập trình hướng kiểm thử hay tái cấu trúc, bạn có thể bắt đầu bằng việc tham khảo [bài viết này](https://nguyenbinhson.com/2020/06/23/bai-quyen-bowling-game/).
