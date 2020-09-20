@@ -12,7 +12,7 @@ Hoạt động chủ yếu của coderetreat tập trung vào việc hoàn thàn
 
 Hầu như không có giới hạn nào trong việc sử dụng ngôn ngữ. Nếu bạn và parter lập trình cặp của bạn muốn thử một ngôn ngữ mới mà chưa kịp chuẩn bị môi trường phát triển thật chỉnh tề, ở đây là một tập các bộ khung dự án cho một số ngôn ngữ phổ biến:
 
-* Golang(presets/golang)
+* ![Golang](presets/golang)
 * ![Java](https://github.com/binhsonnguyen/retmote-code-retreat/tree/master/presets/java)
 * ![JavaScript]()
 * ![PHP]()
