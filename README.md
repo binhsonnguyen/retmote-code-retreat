@@ -4,20 +4,20 @@ Coderetreat là dành trọn một ngày để thực hành luyện tập viết
 
 Coderetreate được thiết kế để đưa ra một loạt các giới hạn để chúng ta có thể tập trung vào chân kỹ năng của chính mình, và điều đó khiến cho việc đối mặt với các thách thức của coderetreat trở nên thực sự, thực sự thú vị.
 
-Hoạt động chủ yếu của coderetreat tập trung vào việc hoàn thành các phiên viết mã dài 45 phút và lặp lại nhiều lần, mã sau mỗi phiên được xóa bỏ hoàn toàn, lập trình theo cặp, việc phát triển được lái bởi kiểm thử, và do đó chúng ta tập trung vào cách làm chứ không phải hoàn thành sản phẩm. Bản thân bài toán được đưa ra để giải tại coderetreat là không quá khó để bắt đầu, nhưng khá phức tạp để có thể hoàn thành trong thời gian cho phép, đó cũng là một ngụ ý để chúng ta gạt đi áp lực phải xong, thay vào đó bài toán chỉ đóng vai trò làm công cụ để chúng ta có chủ đề phát triển: Trò Đời của Conway.
+Hoạt động chủ yếu của coderetreat tập trung vào việc hoàn thành các phiên viết mã dài 45 phút và lặp lại nhiều lần, mã sau mỗi phiên được xóa bỏ hoàn toàn, lập trình theo cặp, việc phát triển được lái bởi kiểm thử, và do đó chúng ta tập trung vào cách làm chứ không phải hoàn thành sản phẩm. Bản thân bài toán được đưa ra để giải tại coderetreat là không quá khó để bắt đầu, nhưng khá phức tạp để có thể hoàn thành trong thời gian cho phép, đó cũng là một ngụ ý để chúng ta gạt đi áp lực phải xong, thay vào đó bài toán chỉ đóng vai trò làm công cụ để chúng ta có chủ đề phát triển: ![Trò Đời của Conway](https://nguyenbinhson.com/2020/08/04/tro-doi/).
 
-Coderetreat được tổ chức mỗi năm một lần trên phạm vi toàn cầu và mặc dù thường được tổ chức offline tại một địa điểm có thực, nơi mọi người có thể gặp gỡ vai kề vai mặt đối mặt, nhưng chúng ta cũng có thể tổ chức một coderetreat từ xa, trực tuyến.
+![Coderetreat](https://www.coderetreat.org/?seed=7684) được tổ chức mỗi năm một lần trên phạm vi toàn cầu và mặc dù thường được tổ chức offline tại một địa điểm có thực, nơi mọi người có thể gặp gỡ vai kề vai mặt đối mặt, nhưng chúng ta cũng có thể tổ chức một coderetreat từ xa, trực tuyến.
 
 ## Tôi được sử dụng những ngôn ngữ nào?
 
 Hầu như không có giới hạn nào trong việc sử dụng ngôn ngữ. Nếu bạn và parter lập trình cặp của bạn muốn thử một ngôn ngữ mới mà chưa kịp chuẩn bị môi trường phát triển thật chỉnh tề, ở đây là một tập các bộ khung dự án cho một số ngôn ngữ phổ biến:
 
-* Golang
-* Java
-* JavaScript
-* PHP
-* Python
-* Ruby
+* Golang(presets/golang)
+* ![Java](https://github.com/binhsonnguyen/retmote-code-retreat/tree/master/presets/java)
+* ![JavaScript]()
+* ![PHP]()
+* ![Python]()
+* ![Ruby]()
 
 Nếu bạn muốn bổ sung một khung dự án mới, hãy gửi một pull request và chúng ta sẽ có đồ mới để chơi :).
 
