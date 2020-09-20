@@ -1,13 +1,14 @@
 # Template cho Code Retreat cho ngôn ngữ Java
 
-## Cài đặt trước
+## Nếu bạn đã cài đặt trước Java và Gradle
 
-* Java
-* Gradle
+Sử dụng command `gradle test` để thực thi kiểm thử
 
-## Chạy kiểm thử
+## Hoặc sử dụng Docker
 
-Sử dụng command `gradle test`.
+* Nếu bạn có Docker đang hoạt động, chạy `./run_with_docker.sh`, command này sẽ đưa bạn vào trong container.
+* Bên trong container, chạy command `cd /app`
+* Bên trong container, chạy command `gradle test` để thực thi kiểm thử
 
 ## Extension VSCode Studio Code nên dùng
 
