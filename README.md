@@ -1,4 +1,4 @@
-# retmote-code-retreat
+# Retmote Code Retreat
 
 Coderetreat là dành trọn một ngày để thực hành luyện tập viết mã có chủ ý, tập trung vào các nguyên tắc cơ bản của phát triển phần mềm hơn là cố gắng để hoàn thành một chức năng cụ thể. Mục tiêu duy nhất của hoạt động là để cải thiện kỹ năng phát triển, thiết kế, kiểm thử và tái cấu trúc.
 
