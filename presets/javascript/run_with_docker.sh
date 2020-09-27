@@ -2,4 +2,4 @@
 
 set -e
 
-docker run -v $(pwd):/app -it node:lts /bin/bash
+docker run -v $(pwd):/app -w /app -it node:lts /bin/bash
