@@ -8,6 +8,6 @@ Sử dụng command `python -m pytest` để thực thi kiểm thử
 
 ## Nếu bạn sử dụng Docker
 
+ * Thực thi `./run_with_docker.sh` với bash(unix) hoặc `./run_with_docker.bat` với cmd(windows). Câu lệnh này đưa bạn vào bên trong container.
 * Chạy command `./run_with_docker.sh`, command này sẽ đưa bạn vào trong container
-* Trong container, chạy command `cd /app`
 * Trong container, chạy command `python -m pytest` để thực thi kiểm thử
