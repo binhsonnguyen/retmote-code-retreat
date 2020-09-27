@@ -3,4 +3,4 @@
 set -e
 
 docker build . -t rubylang
-docker run --rm -v $(pwd):/app -it rubylang /bin/bash
+docker run --rm -v $(pwd):/app -w /app -it rubylang /bin/bash
