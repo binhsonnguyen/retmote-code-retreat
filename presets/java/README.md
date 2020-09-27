@@ -6,8 +6,7 @@ Sử dụng command `gradle test` để thực thi kiểm thử
 
 ## Hoặc sử dụng Docker
 
-* Nếu bạn có Docker đang hoạt động, chạy `./run_with_docker.sh`, command này sẽ đưa bạn vào trong container.
-* Bên trong container, chạy command `cd /app`
+ * Thực thi `./run_with_docker.sh` với bash(unix) hoặc `./run_with_docker.bat` với cmd(windows). Câu lệnh này đưa bạn vào bên trong container.
 * Bên trong container, chạy command `gradle test` để thực thi kiểm thử
 
 ## Extension VSCode Studio Code nên dùng
