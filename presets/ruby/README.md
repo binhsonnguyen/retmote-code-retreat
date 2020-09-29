@@ -17,6 +17,6 @@ rspec
 
 ## Nếu bạn sử dụng Docker
 
-Chạy command `./run_with_docker.sh`, command này sẽ đưa bạn vào trong
-container. Tiếp theo bạn `cd /app` và làm theo hướng dẫn ở trên để cập nhật và
+ * Thực thi `./run_with_docker.sh` với bash(unix) hoặc `./run_with_docker.bat` với cmd(windows). Câu lệnh này đưa bạn vào bên trong container.
+ * Làm theo hướng dẫn ở trên để cập nhật và
 cài đặt thư viện cũng như chạy kiểm thử.

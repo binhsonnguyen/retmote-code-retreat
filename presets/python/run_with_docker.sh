@@ -3,4 +3,4 @@
 set -e
 
 docker build . -t pylang
-docker run --rm -v $(pwd):/app -it pylang /bin/bash
+docker run --rm -v $(pwd):/app -w /app -it pylang /bin/bash

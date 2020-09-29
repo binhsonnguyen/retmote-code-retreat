@@ -8,7 +8,6 @@
 
 ## Nếu bạn sử dụng Docker
 
-* Chạy command `./run_with_docker.sh`, command này sẽ đưa bạn vào trong container
-* Trong container, chạy command `cd /app`
+ * Thực thi `./run_with_docker.sh` với bash(unix) hoặc `./run_with_docker.bat` với cmd(windows). Câu lệnh này đưa bạn vào bên trong container.
 * Trong container, chạy command `composer install` để cài đặt các gói thư viện
 * Trong container, chạy command `composer test` để thực thi kiểm thử
